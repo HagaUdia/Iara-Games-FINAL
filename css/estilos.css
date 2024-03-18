@@ -362,6 +362,15 @@ footer strong {
 
 
 /* Responsividade */
+@media screen and (max-width:1400px) {
+
+    #frase {
+        padding: 20vh 80px 15vw 80px;
+    }
+
+}
+
+/* Responsividade */
 @media (max-width: 768px) {
     /*
     .nav-links {
