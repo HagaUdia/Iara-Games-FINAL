@@ -102,7 +102,7 @@ header {
 
 
 
-.nav-links a:hover, .nav-links .selected a {
+.nav-links a:hover, .nav-links .selected a, .nav-links a:focus {
     background-color: #E62244;
     color: #FFF;
     opacity: 1;
